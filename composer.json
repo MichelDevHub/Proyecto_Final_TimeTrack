@@ -1,0 +1,20 @@
+{
+    "name": "migue/proyecto_final_time-track",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            
+                "Migue\\ProyectoFinalTimetrack\\": "src/",
+                "Migue\\ProyectoFinalTimetrack\\Config\\": "src/config/",
+                "Migue\\ProyectoFinalTimetrack\\Controllers\\": "src/controllers/",
+                "Migue\\ProyectoFinalTimetrack\\Models\\": "src/models/",
+                "Migue\\ProyectoFinalTimetrack\\Helpers\\": "src/helpers/",
+                "Migue\\ProyectoFinalTimetrack\\Database\\": "src/database/",
+                "Migue\\ProyectoFinalTimetrack\\Entities\\": "src/entities/"
+            
+        }
+    },
+    "require": {
+
+    }
+}
